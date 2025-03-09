@@ -1,4 +1,4 @@
-# 🍽️ Recipe Management Application - Tasty Track
+# 🍽️ Recipe Management Application
 
 Tasty Track is a full-stack MERN application for managing recipes. It allows users to create, read, update, and delete (CRUD) recipes with a user-friendly interface.
 
